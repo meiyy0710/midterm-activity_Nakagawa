@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="https://www.example.com"
+           xmlns="https://www.example.com"
+           elementFormDefault="qualified">
+
+  <xs:element name="createTokenRequest">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="clientID" type="xs:string"/>
+        <xs:element name="clientSecret" type="xs:string"/>
+        <xs:element name="requestID" type="xs:string"/>
+        <xs:element name="timestamp" type="xs:string"/>
+        <xs:element name="scope" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  targetNamespace="https://www.example.com"
+  xmlns="https://www.example.com"
+  elementFormDefault="qualified">
+
+  <xs:element name="enroll">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="course" type="xs:string"/>
+        <xs:element name="schoolName" type="xs:string"/>
+        <xs:element name="studentID" type="xs:string"/>
+        <xs:element name="studentName" type="xs:string"/>
+        <xs:element name="yearLevel" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

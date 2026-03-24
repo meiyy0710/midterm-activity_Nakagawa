@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<election xmlns="https://www.example.com"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="https://www.example.com election.xsd">
+
+  <campaignYear>2024</campaignYear>
+  <id>123456679</id>
+  <name>Carlo Baron</name>
+  <politicalParty>NORAB</politicalParty>
+  <position>vice president</position>
+  <previousPosition>HouseWife</previousPosition>
+
+</election>

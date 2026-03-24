@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<store xmlns="https://www.example.com"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="https://www.example.com store.xsd">
+
+  <barcode>4800092116537</barcode>
+  <brand>Choco Mucho</brand>
+  <category>Snacks</category>
+  <currency>PHP</currency>
+  <expirationDate>2026-07-20</expirationDate>
+  <name>Choco bar</name>
+  <price>35.00</price>
+  
+</store>

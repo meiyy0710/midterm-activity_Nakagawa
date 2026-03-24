@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<bank xmlns="https://www.example.com"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="https://www.example.com bank.xsd">
+
+  <accountNumber>0923197319</accountNumber>
+  <accountHolder>Daishi Nakagawa</accountHolder>
+  <accountType>Savings</accountType>
+  <balance>15000.50</balance>
+  <currency>PHP</currency>
+  <status>Pending</status>
+
+</bank>

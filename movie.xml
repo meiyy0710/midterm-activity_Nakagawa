@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<movie xmlns="https://www.example.com"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="https://www.example.com movie.xsd">
+
+  <director>Sunghoo Park</director>
+  <duration>one hour and twenty-three minutes</duration>
+  <genre>Anime</genre>
+  <id>32736921</id>
+  <releaseDate>December 23, 2022</releaseDate>
+  <title>Jujutsu Kaisen 0</title>
+
+</movie>

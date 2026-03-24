@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<enroll xmlns="https://www.example.com"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="https://www.example.com enroll.xsd">
+
+  <course>BSIT</course>
+  <schoolName>Centro Escolar University</schoolName>
+  <studentID>2024-34967</studentID>
+  <studentName>Jazrel Vale</studentName>
+  <yearLevel>2nd year</yearLevel>
+
+</enroll>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<createTokenRequest xmlns="https://www.example.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="https://www.example.com request_token.xsd">
+
+  <clientID>Nakagawa123</clientID>
+  <clientSecret>mySecretKey</clientSecret>
+  <requestID>REQ-067</requestID>
+  <timestamp>2026-03-19</timestamp>
+  <scope>read_write</scope>
+
+</createTokenRequest>
